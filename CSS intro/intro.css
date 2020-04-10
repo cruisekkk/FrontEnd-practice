@@ -1,0 +1,28 @@
+h1{
+	color: rgba(0,0,0,0.5);
+	/*border-color: purple;*/
+	/*border-width: 3;*/
+	/*border-style: solid;*/
+	/*border: 3px dashed purple;*/
+}
+
+body{
+	/*background: pink;*/
+	background: url(http://bpic.588ku.com/element_origin_min_pic/01/10/35/0656f589ffc81c2.jpg);
+	background-repeat: no-repeat;
+	background-size: 500px;
+	background-attachment:fixed;
+	background-position: 50% 50%;
+}
+
+li{
+	border: 1px dotted red;
+}
+
+#special{
+	background: pink;
+}
+
+.finished{
+	text-decoration: line-through;
+}
